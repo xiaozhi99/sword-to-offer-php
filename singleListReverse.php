@@ -1,4 +1,5 @@
-<?php
+﻿<?php
+eccc;
 class Node{
     public $id;
     public $next=null;
