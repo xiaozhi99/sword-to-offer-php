@@ -1,4 +1,5 @@
 ﻿<?php
+echo "sd";
 class Node{
     public $id;
     public $next=null;
