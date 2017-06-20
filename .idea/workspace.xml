@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d091b9ff-5220-46e2-8e21-471689cc13b4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml.rej" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ss.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/sword-to-offer-php.iml" afterPath="$PROJECT_DIR$/.idea/project.iml" />
-    </list>
+    <list default="true" id="d091b9ff-5220-46e2-8e21-471689cc13b4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -272,7 +266,7 @@
       <workItem from="1497936558868" duration="2559000" />
       <workItem from="1497942349289" duration="5599000" />
       <workItem from="1497948419362" duration="4365000" />
-      <workItem from="1497953213686" duration="827000" />
+      <workItem from="1497953213686" duration="885000" />
     </task>
     <task id="LOCAL-00001" summary="sd">
       <created>1497936770967</created>
@@ -285,7 +279,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13350000" />
+    <option name="totallyTimeSpent" value="13408000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,7 +291,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18081991" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
