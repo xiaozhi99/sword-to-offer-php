@@ -1,6 +1,6 @@
 <?php
 $arr=array(array(1,2,7,10),array(9,11,18,30),array(30,50,80,100));
-//方法一 
+//方法一 ddd
 function find1($target, $array)
 {
     // write code here
