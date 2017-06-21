@@ -1,5 +1,5 @@
 ﻿<?php
-//测试修改
+//测试修改·123
 class Node{
     public $id;
     public $next=null;
